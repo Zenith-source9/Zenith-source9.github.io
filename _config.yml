@@ -15,10 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: 左芷涵个人主页
 email: zzh730929@qq.com
-description: >- # 我是左芷涵，应用数学专业学生，对统计建模、机器学习与金融实务抱有浓厚兴趣。
-具备投行、一级市场实习经历，熟悉尽职调查、项目研判与财务数据分析工作。习惯用数理思维拆解现实业务问题，注重逻辑严谨与落地输出。
-乐于持续学习，期待与不同领域的伙伴交流探讨。
-twitter_username: 无
+description: >- 
+Hi, I'm Zhihan Zuo. I am a mathematics student with solid training in pure mathematics,
+statistics and data‑driven analysis. I have accumulated practical experience in capital market due‑diligence,
+industry research and financial report writing during my internships. I enjoy solving real‑world problems by 
+combining mathematical reasoning with data analysis. I am curious, detail‑oriented and eager to explore opportunities 
+in data analytics, quantitative research and investment analysis.
+twitter_username: 
 github_username: zuoxiaoxiao
 minimal_mistakes_skin: default
 search: true
