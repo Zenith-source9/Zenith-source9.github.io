@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: 左芷涵个人主页
+email: zzh730929@qq.com
+description: >- # 我是左芷涵，应用数学专业学生，对统计建模、机器学习与金融实务抱有浓厚兴趣。
+具备投行、一级市场实习经历，熟悉尽职调查、项目研判与财务数据分析工作。习惯用数理思维拆解现实业务问题，注重逻辑严谨与落地输出。
+乐于持续学习，期待与不同领域的伙伴交流探讨。
+twitter_username: 无
+github_username: zuoxiaoxiao
 minimal_mistakes_skin: default
 search: true
 
